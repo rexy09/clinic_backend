@@ -1,0 +1,17 @@
+Django==3.2.4
+gunicorn
+djangorestframework
+markdown    
+django-filter
+django-cors-headers
+requests
+six
+djangorestframework-simplejwt
+whitenoise 
+psycopg2-binary
+python-dotenv
+Pillow
+termcolor
+rest-framework-generic-relations
+django-phonenumber-field[phonenumbers]
+pymemcache

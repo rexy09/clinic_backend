@@ -1,0 +1,12 @@
+media/**
+!media/.gitkeep
+staticfiles/**
+patient/migrations/**
+
+*.pyc
+!.gitkeep
+!__init__.py
+db.sqlite3
+celerybeat-schedule
+.env
+
